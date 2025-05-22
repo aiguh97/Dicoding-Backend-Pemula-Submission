@@ -11,10 +11,11 @@ Projek ini adalah submission dari Dicoding untuk kelas `Belajar Membuat Aplikasi
 ### Rating Submission : ⭐⭐⭐⭐
 # Project Saya
 
-### Berikut adalah tampilan review:
+### 1. Berikut adalah tampilan review:
 [![Review Screenshot](screenshots/reviews.png)](https://www.dicoding.com/academysubmissions/4246685)
 
-### Berikut adalah Link Review dan Link Sertifikat:
-
-[Link Review Dicoding](https://www.dicoding.com/academysubmissions/4246685)
-[Link Sertifikat Dicoding](https://www.dicoding.com/certificates/RVZKWN95QZD5)
+### 2. Berikut adalah Link Review dan Link Sertifikat:
+<ol type="a" style="font-size: 16px;">
+  <li><a href="https://www.dicoding.com/academysubmissions/4246685">Link Review Dicoding</a></li>
+  <li><a href="https://www.dicoding.com/certificates/RVZKWN95QZD5">Link Sertifikat Dicoding</a></li>
+</ol>
