@@ -1,6 +1,6 @@
 # 📃 Deskripsi
 
-Projek ini adalah submission dari Dicoding untuk kelas `Belajar Membuat Aplikasi Back-End untuk Pemula dengan Architecure On AWS Cloud` yang dikirimkan pada tanggal <b>22 Februari 2025</b>.
+Projek ini adalah submission dari Dicoding untuk kelas `Belajar Membuat Aplikasi Back-End untuk Pemula dengan Architecure On AWS Cloud` yang dikirimkan pada tanggal <b>22 Mei 2025</b>.
 
 > **_PERINGATAN: Jadikan repo ini sebagai rujukan/referensi._**
 >
