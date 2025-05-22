@@ -1,0 +1,23 @@
+{
+  "name": "submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "start-dev": "nodemon src/server.js",
+    "lint": "eslint ./src"
+  },
+  "author": "Teguh Muhammad Harits",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "8",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.3",
+    "nanoid": "^3.3.4"
+  }
+}
