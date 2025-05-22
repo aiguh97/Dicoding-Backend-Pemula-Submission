@@ -13,6 +13,8 @@ Projek ini adalah submission dari Dicoding untuk kelas `Belajar Membuat Aplikasi
 
 Berikut adalah tampilan review:
 
-![Review Screenshot](screenshots/review.png)
+[![Review Screenshot](screenshots/reviews.png)](https://www.dicoding.com/academysubmissions/4246685)
+
 [Link Review Dicoding](https://www.dicoding.com/academysubmissions/4246685)
+
 [Link Sertifikat Dicoding](https://www.dicoding.com/certificates/RVZKWN95QZD5)
